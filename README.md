@@ -7,17 +7,7 @@
 
 - 👨🏻‍🎓I completed my B.Tech from JIS College Of Engineering **with 8.52 CGPA in the year of 2023**
 
-- 📚 I’m currently learning **php**
-
-- 🤝🏻I'm looking to colaborate on **Web Development projects**
-
-- 📑 Here is my own portfolio [https://6616d98e5bca552aeaabc1fe--sprightly-blini-b20f1f.netlify.app/](https://6616d98e5bca552aeaabc1fe--sprightly-blini-b20f1f.netlify.app/)
-
-- 💬 Ask me about **Web Development**
-
 - 📫 How to reach me **pranshuofjis@gmail.com**
-
-- 📄 Here is my resume [https://drive.google.com/file/d/1GlQevhiXqwV-ugrw4Qnz6pksXmgLuXjV/view?usp=sharing](https://drive.google.com/file/d/1GlQevhiXqwV-ugrw4Qnz6pksXmgLuXjV/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny😜**
 
